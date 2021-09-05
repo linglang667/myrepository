@@ -1,0 +1,9 @@
+com\bjpowernode\ba01\SomeService.class
+com\bjpowernode\ba03\MyAspect.class
+com\bjpowernode\ba03\SomeService.class
+com\bjpowernode\ba02\SomeService.class
+com\bjpowernode\ba02\SomeServiceImpl.class
+com\bjpowernode\ba03\SomeServiceImpl.class
+com\bjpowernode\ba01\SomeServiceImpl.class
+com\bjpowernode\ba01\MyAspect.class
+com\bjpowernode\ba02\MyAspect.class
